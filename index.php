@@ -21,7 +21,5 @@ wp_list_categories( array(
 ?>
 </ul>
 
-//wat
-
 </body>
 </html>
