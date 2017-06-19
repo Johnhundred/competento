@@ -21,5 +21,7 @@ wp_list_categories( array(
 ?>
 </ul>
 
+<script src="<?php echo get_template_directory_uri(); ?>/assets/js/main.js" />
+
 </body>
 </html>
